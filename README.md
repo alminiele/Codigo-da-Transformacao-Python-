@@ -1,7 +1,7 @@
 # Codigo-da-Transformacao/Python-
 bloco de código
 
-cauculadora 
+cauculadora.py 
 
 print('==== Welcome ===')
 print('=== Mini Calculadora ')
