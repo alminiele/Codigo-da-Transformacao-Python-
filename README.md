@@ -2,6 +2,7 @@
 bloco de código
 
 cauculadora 
+
 print('==== Welcome ===')
 print('=== Mini Calculadora ')
 print('1 - soma')
