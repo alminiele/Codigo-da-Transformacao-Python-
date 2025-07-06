@@ -31,6 +31,7 @@ cauculadora.py
     print('Res:', num_1 / num_2 )
     else:
     print('Erro divisão por zero, tente outra vez...')
+    print('Obrigado por usar a mini calculadora !!')
 
 
 outro bloco de código.py
